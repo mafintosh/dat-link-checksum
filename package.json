@@ -1,0 +1,23 @@
+{
+  "name": "dat-link-checksum",
+  "version": "0.0.0",
+  "description": "Backwards compatible dat links that contain a checksum so you know if made a typo",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^11.0.1"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/dat-link-checksum.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/dat-link-checksum/issues"
+  },
+  "homepage": "https://github.com/mafintosh/dat-link-checksum"
+}
