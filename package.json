@@ -1,6 +1,6 @@
 {
   "name": "dat-link-checksum",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Backwards compatible dat links that contain a checksum so you know if made a typo",
   "main": "index.js",
   "dependencies": {},
